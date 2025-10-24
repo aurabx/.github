@@ -7,7 +7,7 @@ Aurabox is for patients and doctors. We believe empowering patients by giving th
 Find out more at [https://aurabox.cloud](https://aurabox.cloud) and [https://runbeam.io](https://runbeam.io).
 
 ## Harmony
-- [Harmony] - an API proxy with transforms, authentication, and wireguard connectivity
+- [Harmony](https://github.com/aurabx/harmony) - an API proxy with transforms, authentication, and wireguard connectivity
 
 ## JMIX
 
