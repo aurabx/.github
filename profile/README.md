@@ -14,7 +14,7 @@ Find out more at [https://aurabox.cloud](https://aurabox.cloud) and [https://run
 
 ## Harmony Development Tools
 
-- [Harmony DSL](https://github.com/aurabx/harmony-dsl) - The Domain Specfic Language used by Harmony for configuration
+- [Harmony DSL](https://github.com/aurabx/harmony-dsl) - The Domain Specfic Language used by Harmony for configuration (available as a PHP and Rust component)
 - [Runbeam SDK](https://github.com/aurabx/runbeam-sdk-rs) - A Rust SDK for building tools that interract with the Runbeam API (used by Harmony and the Runbeam CLI)
 
 ## Related Libraries
