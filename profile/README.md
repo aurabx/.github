@@ -34,7 +34,11 @@ A modern wrapper for the DICOM format (and other medical imaging)
 
 - [dicomweb-parser](https://github.com/aurabx/dicomweb-parser) – PHP library for parsing DICOMweb metadata.  
 - [dicom-data](https://github.com/aurabx/dicom-data) – DICOM tag dictionary for use in Aurabox tooling.  
-- [make-dicom](https://github.com/aurabx/make-dicom) – Python utility for generating DICOM test files.  
+- [make-dicom](https://github.com/aurabx/make-dicom) – Python utility for generating DICOM test files.
+
+## Working with FHIR
+
+- [fhirbird](https://github.com/aurabx/fhirbird) - A simple FHIR query tool in the browser
 
 ## Aurabox applications
 
