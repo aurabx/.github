@@ -9,7 +9,7 @@ Find out more at [https://aurabox.cloud](https://aurabox.cloud) and [https://run
 ## Runbeam & Harmony
 
 - [Harmony](https://github.com/aurabx/harmony) - an API proxy with transforms, authentication, and wireguard connectivity via [https://runbeam.io](https://runbeam.io)
-- [Harmony Agent](https://github.com/aurabx/harmony-agent) - The Harmony WireGuard agent
+- [Harmony Examples](https://github.com/aurabx/harmony-examples) - Example pipelines for Harmony. These are also listed on the Runbeam website and in the app.
 - [Runbeam CLI](https://github.com/aurabx/runbeam-cli) - The CLI for [https://runbeam.io](https://runbeam.io)
 
 ## Harmony Development Tools
@@ -21,6 +21,7 @@ Find out more at [https://aurabox.cloud](https://aurabox.cloud) and [https://run
 
 - [Harmony TOML PHP Validator](https://github.com/aurabx/harmony-toml-validator-php) - A validator for Harmony TOML, written in PHP (used by Runbeam)
 - [Jolt-rs](https://github.com/aurabx/jolt-rs) - An implementation Jolt transforms in Rust (used by Harmony)
+- [Harmony Agent](https://github.com/aurabx/harmony-agent) - The Harmony WireGuard agent
 
 ## JMIX
 A modern wrapper for the DICOM format (and other medical imaging)
