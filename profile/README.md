@@ -22,7 +22,8 @@ Find out more at [https://aurabox.cloud](https://aurabox.cloud) and [https://run
 ## Related Libraries
 
 - [Harmony TOML PHP Validator](https://github.com/aurabx/harmony-toml-validator-php) - A validator for Harmony TOML, written in PHP (used by Runbeam)
-- [Jolt-rs](https://github.com/aurabx/jolt-rs) - An implementation Jolt transforms in Rust (used by Harmony)
+- [Jolt-rs](https://github.com/aurabx/jolt-rs) - An implementation of Jolt transforms in Rust (used by Harmony)
+- [Jolt-js](https://github.com/aurabx/jolt-js) - An implementation of Jolt transforms in JavaScript (used by Runbeam)
 - [Harmony Agent](https://github.com/aurabx/harmony-agent) - The Harmony WireGuard agent
 
 ## JMIX
