@@ -35,7 +35,8 @@ A modern wrapper for the DICOM format (and other medical imaging)
 
 ## Working with DICOM
 
-- [dicomweb-parser](https://github.com/aurabx/dicomweb-parser) – PHP library for parsing DICOMweb metadata.  
+- [dicomweb-parser](https://github.com/aurabx/dicomweb-parser) – PHP library for parsing DICOMweb metadata.
+- [dcmtk-php](https://github.com/aurabx/dcmtk-php) - PHP library for calling dcmtk from PHP
 - [dicom-data](https://github.com/aurabx/dicom-data) – DICOM tag dictionary for use in Aurabox tooling.  
 - [make-dicom](https://github.com/aurabx/make-dicom) – Python utility for generating DICOM test files.
 
