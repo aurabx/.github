@@ -30,7 +30,7 @@ Find out more at [https://aurabox.cloud](https://aurabox.cloud) and [https://run
 A modern wrapper for the DICOM format (and other medical imaging)
 
 - [The JMIX specification](https://github.com/aurabx/jmix) - a modern wrapper for DICOM
-- [jmix-rs](https://github.com/aurabx/jmix-rust) – The JMIX SDK written in Rust (as used by Harmony)
+- [jmix-rs](https://github.com/aurabx/jmix-rs) – The JMIX SDK written in Rust (as used by Harmony)
 - [jmix-js](https://github.com/aurabx/jmix-js) – The JMIX SDK in TypeScript (as used by Aurabox)
 - [jmix-php](https://github.com/aurabx/dicomweb-parser) – The JMIX SDK for PHP
 
